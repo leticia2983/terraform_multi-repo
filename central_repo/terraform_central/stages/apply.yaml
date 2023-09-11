@@ -21,7 +21,7 @@ stages:
                   backendServiceArm: 'terra_beginner_svc'
                   # Subscription id of the target backend. This can be used to specify the subscription when using Management Group scoped
                   # Service connection or to override the subscription id defined in a Subscription scoped service connection
-                  backendAzureRmSubscriptionId: '714bac87-66c7-4f7b-baf9-52b5580e583c'
+                  backendAzureRmSubscriptionId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
                   # create backend storage account if doesn't exist
                   ensureBackend: true
                   backendAzureRmResourceGroupName: 'RGinfra-platform-rg-prod11'
