@@ -1,0 +1,4 @@
+stages:
+
+ 
+  - template: ..\stages\apply.yaml
