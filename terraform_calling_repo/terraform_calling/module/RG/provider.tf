@@ -10,10 +10,10 @@ terraform {
 # Configure the Microsoft Azure Provider
 provider "azurerm" {
    features {}
-  #  client_id       = "fdc87e1b-fe51-4e21-b2de-fd185221f846"
-  #  client_secret   = "fD98Q~kIXBTZ2dXSy4YDZRdI1tVZVc_f5BvqHaXj"
-  #  tenant_id       = "90f8a8f8-fcda-40f9-9bb2-a40ce4eb043b"
-  #  subscription_id = "714bac87-66c7-4f7b-baf9-52b5580e583c"
+  #  client_id       = "fxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  #  client_secret   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  #  tenant_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  #  subscription_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc"
 }
 
 #terraform {
